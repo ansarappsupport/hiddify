@@ -1,4 +1,4 @@
 warp://162.159.192.117:903/?ifp=5-10#irancell_wifi_1✡️
-warp://162.159.192.236:859/?ifp=5-10#irancell_wifi_2✡️
+warp://162.159.192.118:854/?ifp=5-10#irancell_wifi_2✡️
 warp://[2606:4700:d0::1d30:acf6:db31:962e]:946/?ifp=5-10#hamrah_1✡️
 warp://[2606:4700:d0::1ae7:1817:f6d7:9ec]:946/?ifp=5-10#hamrah_2✡️
