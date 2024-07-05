@@ -1,4 +1,4 @@
-vless://b127099a-d0ba-4dbe-8be1-e10f8c51a675@24.144.77.160:80?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%2850%29
-warp://162.159.195.129:903/?ifp=5-10#irancell_wifi_2✡️
+warp://162.159.192.23:1074/?ifp=5-10#irancell_wifi_1✡️
+warp://188.114.99.78:8886/?ifp=5-10#irancell_wifi_2✡️
 warp://[2606:4700:d0::2479:bec9:ab80:7351]:1070/?ifp=5-10#hamrah_1✡️
 warp://[2606:4700:d1::993d:8147:fc5c:4ae1]:943/?ifp=5-10#hamrah_2✡️
