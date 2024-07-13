@@ -2,4 +2,4 @@ warp://162.159.192.231:3581/?ifp=5-10#irancell_wifi_1✡️
 warp://188.114.96.165:8886/?ifp=5-10#irancell_wifi_2✡️
 warp://[2606:4700:d1::7faf:baa:1e43:62dd]:945/?ifp=5-10#hamrah_1✡️
 warp://[2606:4700:d1::4019:cac5:efd9:36b2]:8886/?ifp=5-10#hamrah_2✡️
-vless://telegram-id-ArV2ray@www.speedtest.net:2095/?type=ws&encryption=none&flow=&host=4.w.www.speedtest.net.zula.ir.bahrane.ir.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2048#wifi_US%282%29
+vless://--Tel--ELiV2ray--@repo.steampowered.com:8080/?type=ws&encryption=none&host=f1.pOwERfulsERvEr.dE.&path=%2FELeNaELeNa--%40ELiV2--%40ELiV2--%40ELiV2%3Fed%3D8080#%F0%9F%87%B3%F0%9F%87%B1%40ELiV2ray
