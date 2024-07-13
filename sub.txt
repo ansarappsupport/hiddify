@@ -1,5 +1,5 @@
-warp://188.114.97.113:1018/?ifp=5-10#irancell_wifi_1✡️
-warp://162.159.192.58:968/?ifp=5-10#irancell_wifi_2✡️
+warp://162.159.192.231:3581/?ifp=5-10#irancell_wifi_1✡️
+warp://188.114.96.165:8886/?ifp=5-10#irancell_wifi_2✡️
 warp://[2606:4700:d1::96f8:3494:37b6:5bb3]:1070/?ifp=5-10#hamrah_1✡️
 warp://[2606:4700:d0::1952:c750:bbb6:3d06]:939/?ifp=5-10#hamrah_2✡️
 vless://telegram-id-ArV2ray@104.17.147.22:2095/?type=ws&encryption=none&flow=&host=2.www.speedtest.net.deb.debian.org.mehpow.ir.&path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2048#wifi%20%2868%29
