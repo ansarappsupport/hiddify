@@ -1,4 +1,4 @@
-warp://162.159.193.8:878/?ifp=5-10#irancell_1✡️
+warp://162.159.195.216:878/?ifp=5-10#irancell_1✡️
 warp://162.159.192.136:1074/?ifp=5-10#irancell_2✡️
 warp://[2606:4700:d1::f8ff:4fed:de59:543f]:908/?ifp=5-10#hamrah_1✡️
 warp://[2606:4700:d1::802f:dee3:7073:1fab]:1070/?ifp=5-10#hamrah_2✡️
