@@ -1,5 +1,5 @@
-warp://162.159.195.216:878/?ifp=5-10#irancell_1✡️
-warp://162.159.192.136:1074/?ifp=5-10#irancell_2✡️
+warp://162.159.192.191:1074/?ifp=5-10#irancell_1✡️
+warp://188.114.96.244:878/?ifp=5-10#irancell_2✡️
 warp://[2606:4700:d1::cc13:43fc:589e:2456]:500/?ifp=5-10#hamrah_1✡️
 warp://[2606:4700:d0::1ae5:4d1a:ad08:7512]:1843/?ifp=5-10#hamrah_2✡️
 vless://89843ae3-922d-4f87-aae2-e1fd5981d4d3@speed.cloudflare.com:8443/?type=grpc&encryption=none&flow=&serviceName=%40iMrV2ray%40iMrV2ray%40iMrV2ray%20%40iMrV2ray%40iMrV2ray%40iMrV2ray%20%40iMrV2ray%40iMrV2ray%40iMrV2ray%20%40iMrV2ray%40iMrV2ray%40iMrV2ray%20%40iMrV2ray%40iMrV2ray%40iMrV2ray%20%40iMrV2ray%40iMrV2ray%40iMrV2ray&security=tls&sni=imrv2ray.hossienhost.ir&alpn=h2%2Chttp%2F1.1&fp=chrome#WIFI%20%F0%9F%87%A9%F0%9F%87%AA%20%D9%88%D8%A7%DB%8C%E2%80%8C%D9%81%D8%A7%DB%8C%20
