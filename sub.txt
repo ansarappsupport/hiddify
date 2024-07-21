@@ -2,4 +2,4 @@ warp://162.159.195.216:878/?ifp=5-10#irancell_1✡️
 warp://162.159.192.136:1074/?ifp=5-10#irancell_2✡️
 warp://[2606:4700:d1::cc13:43fc:589e:2456]:500/?ifp=5-10#hamrah_1✡️
 warp://[2606:4700:d0::1ae5:4d1a:ad08:7512]:1843/?ifp=5-10#hamrah_2✡️
-vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVy5aLnouei5aLnoudi52LlYudi5WLlYudi52ZkFzdC5pUi56VWxhLklSLnNQRWVEVGVTdC5ORXQuSVNWcGhQLklyLiIsImlkIjoiMjgyOTI5YTctNzI0Ny00YmZkLTg0ZjQtMzllNjE0ODRmMzEzIiwibmV0Ijoid3MiLCJwYXRoIjoiL1JBQ0VWUE4iLCJwb3J0IjoiODAiLCJwcyI6IldJRkkg8J+HqfCfh6og2YjYp9uM4oCM2YHYp9uMICIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://111bcefe-653e-4e94-8b2b-b5f1a29c8cd0@104.17.148.22:8880/?type=ws&encryption=none&flow=&host=10.v.v.y.www.speedtest.net.ftp.debian.org.bklink.ir.&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#%D9%88%D8%A7%DB%8C%E2%80%8C%D9%81%D8%A7%DB%8C%20%F0%9F%87%A9%F0%9F%87%AA%20WIFI%20
