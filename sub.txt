@@ -2,4 +2,4 @@ warp://162.159.195.216:878/?ifp=5-10#irancell_1✡️
 warp://162.159.192.136:1074/?ifp=5-10#irancell_2✡️
 warp://[2606:4700:d1::cc13:43fc:589e:2456]:500/?ifp=5-10#hamrah_1✡️
 warp://[2606:4700:d0::1ae5:4d1a:ad08:7512]:1843/?ifp=5-10#hamrah_2✡️
-vmess://eyJhZGQiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMGZiNzg2Ny05NWFkLTRlYWYtOTlmMS0yMjI1NWJlYjYyNTEiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJXaWZpIPCfh6jwn4em2YjYp9uMINmB2KfbjCAiLCJzY3kiOiJhdXRvIiwic25pIjoiZGdCWE0ybG5aSnd5NGtXY0xDaWhlYzBmRnJmZ0V6bWxVN0ZScGx6V2JlNjVYVm91LmZ4c2VydmVyci5pci4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://3fa4c645-f6a7-4a02-85ee-7289530a6d1e@mci.zafarpapet.ir:2096/?type=ws&encryption=none&flow=&host=Esr.zafarinoco.ir&path=%2F&security=tls&sni=Esr.zafarinoco.ir&alpn=http%2F1.1#%D9%88%D8%A7%DB%8C%20%D9%81%D8%A7%DB%8C_%20%F0%9F%87%A9%F0%9F%87%AAWIFI%20
