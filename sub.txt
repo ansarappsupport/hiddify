@@ -2,4 +2,3 @@ warp://188.114.96.32:878/?ifp=5-10#irancell_1✡️
 warp://188.114.97.114:988/?ifp=5-10#irancell_2✡️
 warp://[2606:4700:d1::ea33:d2ff:7a66:1596]:7152/?ifp=5-10#hamrah_1✡️
 warp://[2606:4700:d1::f649:7c49:32c5:81a7]:955/?ifp=5-10#hamrah_2✡️
-vless://e9e2aa09-d3b5-4ee1-b646-1128466d25e1@108.162.195.205:8880/?type=ws&encryption=none&flow=&host=77.v2ray.debian.org.fxp.debian.org.speedtest.net.zula.ir.%E3%82%89%E3%82%8F%E3%81%AA%E3%81%95%E3%82%89%E3%82%8F.mralpha-vpn.COM.&path=%2FThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%2CThunder%3Fed%3D2048#WIFI%20%F0%9F%87%B7%F0%9F%87%BA-%20%D9%88%D8%A7%DB%8C%E2%80%8C%D9%81%D8%A7%DB%8C%20
