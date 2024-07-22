@@ -2,4 +2,3 @@ warp://188.114.96.32:878/?ifp=5-10#irancell_1✡️
 warp://188.114.99.254:903/?ifp=5-10#irancell_2✡️
 warp://[2606:4700:d1::ea33:d2ff:7a66:1596]:7152/?ifp=5-10#hamrah_1✡️
 warp://[2606:4700:d1::f649:7c49:32c5:81a7]:955/?ifp=5-10#hamrah_2✡️
-vmess://eyJhZGQiOiIxNzIuNjcuNzEuMTYwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvYmRpaS5jZmQiLCJpZCI6IjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLZiNin24zigIzZgdin24wgXyBXaUZpIPCfh6jwn4e1Iiwic2N5IjoiYXV0byIsInNuaSI6Im9iZGlpLmNmZCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
