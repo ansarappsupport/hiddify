@@ -1,4 +1,4 @@
-warp://188.114.98.215:928?ifp=30-40&ifps=40-100&ifpd=1-3&ifpm=m4#All_30d_📶&&detour=warp://188.114.97.147:988?ifp=30-40&ifpm=m4#All_📶DE🇩🇪
+warp://188.114.97.152:987?ifp=30-40&ifps=40-100&ifpd=1-3&ifpm=m4#All_30d_📶&&detour=warp://188.114.97.147:988?ifp=30-40&ifpm=m4#All_📶DE🇩🇪
 warp://188.114.99.117:934?ifp=30-40&ifpm=m4#irancell✡️
 warp://[2606:4700:d1::9ce6:9c98:f776:c88d]:987?ifp=1-3&ifpm=m3#hamrah✡️
 warp://[2606:4700:d1::750e:7044:6036:c466]:1014?ifp=25-50&ifpm=m3#hamrah2&&detour=warp://188.114.97.141:2371?ifp=30-40&ifpm=m4#hamrah_DE🇩🇪
