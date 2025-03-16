@@ -1,4 +1,4 @@
-warp://188.114.98.227:878?ifp=30-40&ifps=40-100&ifpd=1-3&ifpm=m4#All_24E📶&&detour=warp://188.114.96.174:943?ifp=30-40&ifpm=m4#All_📶DE🇩🇪
-warp://188.114.98.63:1180?ifp=30-40&ifpm=m4#irancell✡️
-warp://[2606:4700:d0::6934:58a9:fb5:da9d]:854?ifp=1-3&ifpm=m3#hamrah✡️
-warp://[2606:4700:d0::24d:1cfc:35d:ee54]:968?ifp=25-50&ifpm=m3#hamrah2&&detour=warp://188.114.98.41:1002?ifp=30-40&ifpm=m4#hamrah_sw🇸🇪🇩🇪
+warp://188.114.96.171:946?ifp=30-40&ifps=40-100&ifpd=1-3&ifpm=m4#All_27E📶&&detour=warp://188.114.97.43:942?ifp=30-40&ifpm=m4#All_📶DE🇩🇪
+warp://188.114.98.124:1387?ifp=30-40&ifpm=m4#irancell✡️
+warp://[2606:4700:d0::64eb:6ddf:1927:f29d]:854?ifp=1-3&ifpm=m3#hamrah✡️
+warp://[2606:4700:d0::1910:a8c3:e9e6:e607]:968?ifp=25-50&ifpm=m3#hamrah2&&detour=warp://188.114.96.92:8319?ifp=30-40&ifpm=m4#hamrah_sw🇸🇪🇩🇪
