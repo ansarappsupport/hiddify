@@ -1,4 +1,4 @@
-warp://188.114.97.103:880?ifp=30-40&ifps=40-100&ifpd=1-3&ifpm=m4#ALL_📶🔑27F&&detour=warp://188.114.96.167:864?ifp=30-40&ifpm=m4#ALL_📶DE🇩🇪
-warp://188.114.96.153:2506?ifp=30-40&ifpm=m4#✡️✔️ALL
-warp://[2606:4700:d0::43a8:3e0d:4fd9:f244]:939?ifp=1-3&ifpm=m3#✡️MCI-MTN-IPV6
-warp://[2606:4700:d0::16f5:8651:13b4:a8ca]:1014?ifp=25-50&ifpm=m3#MCI-MTN-IPV6_2️⃣&&detour=warp://188.114.97.13:955?ifp=30-40&ifpm=m4#MCI-MTN-IPV6_sw🇸🇪🇩🇪
+warp://188.114.96.128:939?ifp=30-40&ifps=40-100&ifpd=1-3&ifpm=m4#ALL_📶🔑30F&&detour=warp://188.114.99.118:903?ifp=30-40&ifpm=m4#ALL_📶DE🇩🇪
+warp://188.114.97.129:1701?ifp=30-40&ifpm=m4#✡️✔️ALL
+warp://[2606:4700:d0::3287:50c2:f55f:9aae]:880?ifp=1-3&ifpm=m3#✡️MCI-MTN-IPV6
+warp://[2606:4700:d0::6a5c:93b3:ae3:cc2f]:1387?ifp=25-50&ifpm=m3#MCI-MTN-IPV6_2️⃣&&detour=warp://188.114.96.134:878?ifp=30-40&ifpm=m4#MCI-MTN-IPV6_sw🇸🇪🇩🇪
